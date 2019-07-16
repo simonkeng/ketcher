@@ -96,7 +96,7 @@ window.onload = function () {
 
 const buildInfo = {
 	version: '__VERSION__',
-	apiPath: 'https://pdx-dataportaldev-lv01.schrodinger.com/data_set_details/indigo_gateway',
+	apiPath: 'https://pdx-dataportaldev-lv01.schrodinger.com:5003/v2',
 	buildDate: '__BUILD_DATE__',
 	buildNumber: '__BUILD_NUMBER__' || null
 };
